@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Deep-06.github.io/static/css/main.a083ac1e.css",
+    "main.js": "/Deep-06.github.io/static/js/main.d4d68a67.js",
+    "static/js/787.0bbe12ad.chunk.js": "/Deep-06.github.io/static/js/787.0bbe12ad.chunk.js",
+    "index.html": "/Deep-06.github.io/index.html",
+    "main.a083ac1e.css.map": "/Deep-06.github.io/static/css/main.a083ac1e.css.map",
+    "main.d4d68a67.js.map": "/Deep-06.github.io/static/js/main.d4d68a67.js.map",
+    "787.0bbe12ad.chunk.js.map": "/Deep-06.github.io/static/js/787.0bbe12ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a083ac1e.css",
+    "static/js/main.d4d68a67.js"
+  ]
+}
